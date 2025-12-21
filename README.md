@@ -1,5 +1,8 @@
 # Aura-Obfuscater-Strings
 
+Strings Decrypter For This https://github.com/loomisntreal/Aura-.NET-Obfuscator
+
+
 
 <img width="1061" height="294" alt="image" src="https://github.com/user-attachments/assets/260da36a-081e-47d5-abf6-085c039f7ff8" />
 
